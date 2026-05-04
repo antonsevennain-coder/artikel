@@ -57,9 +57,9 @@ Sebagian besar partisipan berstatus menikah (83%) tanpa adanya perbedaan signifi
 
 #### a. Illness Perception
 
-Berdasarkan hasil analisis (Tabel 4.2), rata-rata skor total illness perception yang diukur menggunakan B-IPQ pada pasien hemodialisis adalah 43.815 ± 11.137. Skor total berada pada rentang 11–74. Berdasarkan distribusi skor per item, terdapat tiga item dengan skor rata-rata terendah, yaitu: (1) item 4 (1.644 ± 2.613); (2) item 7 ([*nilai perlu diverifikasi dari data mentah*] ± [*SD*]); dan (3) item 5 (6.356 ± 2.602). Sebaliknya, tiga item dengan skor rata-rata tertinggi, yaitu: (1) item 1 (8.341 ± 2.102); (2) item 8 (6.963 ± 2.708); dan (3) item 2 (6.622 ± 2.828) *[REVISI: item 7 dan 8 harus ditampilkan lengkap di tabel agar konsisten dengan narasi; nilai item 7 belum dapat dikonfirmasi dari naskah yang tersedia]*.
+Berdasarkan hasil analisis (Tabel 4.2), rata-rata skor total illness perception yang diukur menggunakan B-IPQ pada pasien hemodialisis adalah 43.815 ± 11.137. Skor total berada pada rentang 11–74. Berdasarkan distribusi skor per item yang tersedia (item 1–6 dan item 8), terdapat tiga item dengan skor rata-rata terendah, yaitu: (1) item 4 (1.644 ± 2.613); (2) item 5 (6.356 ± 2.602); dan (3) item 6 (6.356 ± 2.906). Tiga item dengan skor rata-rata tertinggi, yaitu: (1) item 1 (8.341 ± 2.102); (2) item 8 (6.963 ± 2.708); dan (3) item 2 (6.622 ± 2.828). *[REVISI: Draf sebelumnya menyebut "item 7" sebagai salah satu terendah, namun nilai lengkap item 7 tidak tersedia dalam naskah yang dapat ditelaah. Peringkat di atas mengacu pada item yang datanya tersedia. Item 7 (Koherensi) harus dilengkapi dari data mentah sebelum memasukkannya dalam perbandingan.]*
 
-Jika ditinjau berdasarkan jenis kelamin, partisipan laki-laki memiliki rata-rata skor total yang lebih rendah (43.282 ± 12.131) dibanding partisipan perempuan (**[nilai SD perempuan perlu diverifikasi dari data mentah]**) *[REVISI: angka "44.5-4419,670" pada draf sebelumnya merupakan data tidak terbaca/garbled; nilai SD perempuan harus dikonfirmasi]*.
+Jika ditinjau berdasarkan jenis kelamin, partisipan laki-laki memiliki rata-rata skor total yang lebih rendah (43.282 ± 12.131) dibanding partisipan perempuan (rata-rata 44.5; **SD perlu diverifikasi dari data mentah**) *[REVISI: angka "44.5-4419,670" pada draf sebelumnya merupakan data tidak terbaca/garbled — nilai mean perempuan yang dapat diekstrak adalah 44.5, namun nilai SD tidak dapat dikonfirmasi dan harus diperbaiki sesuai data mentah]*.
 
 Berdasarkan hasil analisis skor total menggunakan **independent samples t-test** *[REVISI: "Stalent's t-test" adalah typo; diperbaiki menjadi "independent samples t-test"]*, tidak terdapat perbedaan yang signifikan antara partisipan laki-laki dan perempuan (p > 0.05). Hal ini mencakup seluruh dimensi dan item pada illness perception (p > 0.05 untuk semua item).
 
@@ -73,13 +73,11 @@ Berdasarkan hasil analisis skor total menggunakan **independent samples t-test**
 | 4 | Kontrol Pengobatan: Sejauh mana pengobatan dapat membantu penyakit Anda? | 1.644 ± 2.613 | 1.756 ± 2.564 | 1.491 ± 2.693 | 2527.000 | -0.137 | 0.144 |
 | 5 | Identitas: Seberapa banyak gejala yang Anda alami? | 6.356 ± 2.602 | 5.974 ± 2.701 | 6.877 ± 2.384 | 1786.500 | 0.196 | 0.050 |
 | 6 | Kekhawatiran: Seberapa khawatir Anda terhadap penyakit Anda? | 6.356 ± 2.906 | 6.269 ± 2.908 | 7.123 ± 2.854 | 1820.500 | 0.181 | 0.071 |
-| 7 | Koherensi: Seberapa baik Anda memahami penyakit Anda? | *[perlu data]* | *[perlu data]* | *[perlu data]* | — | — | — |
-| 8 | Respons Emosional: Seberapa besar penyakit mempengaruhi emosi Anda? | 6.963 ± 2.708 | *[perlu data]* | *[perlu data]* | — | — | — |
-| | **Total Skor B-IPQ** | **43.815 ± 11.137** | **43.282 ± 12.131** | **[*perlu data*]** | — | — | — |
+| 7 | Koherensi: Seberapa baik Anda memahami penyakit Anda? | *[harus diisi dari data mentah]* | *[harus diisi]* | *[harus diisi]* | — | — | — |
+| 8 | Respons Emosional: Seberapa besar penyakit mempengaruhi emosi Anda? | 6.963 ± 2.708 | *[harus diisi dari data mentah]* | *[harus diisi dari data mentah]* | — | — | — |
+| | **Total Skor B-IPQ** | **43.815 ± 11.137** | **43.282 ± 12.131** | **44.5 ± [SD perlu diisi]** | — | — | — |
 
-*Keterangan: Effect size (r) dihitung dari statistik uji Mann-Whitney U; nilai positif menunjukkan skor perempuan lebih tinggi. Semua perbandingan p > 0.05 kecuali item 5 (p = 0.050, batas signifikansi).*
-
-*[REVISI: item 7 dan 8 harus dilengkapi nilainya dari data mentah. Item 5 memiliki p = 0.050 yang perlu dicermati — tepat di batas α = 0.05; hindari klaim "tidak signifikan" secara mutlak dan sajikan nilai p yang tepat.]*
+*Keterangan: Effect size (r) dihitung dari statistik uji Mann-Whitney U; nilai positif menunjukkan skor perempuan lebih tinggi. Semua perbandingan p > 0.05 kecuali item 5 (p = 0.050, tepat di batas α = 0.05 — tidak boleh diklaim "tidak signifikan" secara mutlak). Sel bertanda [harus diisi dari data mentah] merupakan data yang tidak dapat dikonfirmasi dari naskah yang ditelaah dan wajib dilengkapi peneliti.*
 
 ---
 
@@ -127,7 +125,7 @@ Berdasarkan hasil analisis, terdapat perbedaan signifikan terkait self-managemen
 |---|---|---|
 | Hasil — durasi HD (Pembahasan) | "32 tahun" | **3.2 tahun** |
 | Hasil — cakupan asuransi (Pembahasan) | "95.8%" | **98.5%** |
-| Hasil — SD perempuan (skor total) | "44.5-4419,670" | **[harus diverifikasi dari data mentah]** |
+| Hasil — SD perempuan (skor total) | "44.5-4419,670" | **Mean 44.5 dikonfirmasi; SD [harus diisi dari data mentah]** |
 | Notasi p-value | "(0.843)", "(0.005)", "(-0.822)" | "(p = 0.843)", "(p = 0.005)", "(p = 0.822)" |
 | Nama uji statistik | "Stalent's t-test" | **independent samples t-test** |
 | Klaim kausal | "membuktikan bahwa perlindungan finansial … menyetarakan" | "konsisten dengan temuan bahwa …" |
