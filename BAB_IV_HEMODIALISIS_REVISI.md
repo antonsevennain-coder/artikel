@@ -101,7 +101,39 @@ Sejalan dengan CSM, temuan ini **konsisten dengan** pandangan bahwa stimulus sit
 
 ### 2. Self-Management Berdasarkan Jenis Kelamin
 
-Berdasarkan hasil analisis, terdapat perbedaan signifikan terkait self-management pada pasien hemodialisis berdasarkan jenis kelamin *[bagian ini perlu dilengkapi dengan data dan pembahasan dari tabel self-management yang tidak tersedia pada draf yang ditelaah]*.
+Berdasarkan hasil analisis (Tabel 4.3), rata-rata total skor self-management yang diukur menggunakan PKDSMS pada pasien hemodialisis adalah 26.156 ± 5.255, dengan rentang skor antara 13–39. Berdasarkan distribusi skor per item, terdapat tiga item dengan skor rata-rata terendah: (1) item 7 (2.652 ± 0.980); (2) item 2 (2.844 ± 1.145); dan (3) item 1 (3.044 ± 1.196). Tiga item dengan skor rata-rata tertinggi: (1) item 8 (3.630 ± 1.042); (2) item 4 (3.593 ± 1.081); dan (3) item 3 (3.593 ± 1.046).
+
+Jika ditinjau berdasarkan jenis kelamin, partisipan laki-laki memiliki rata-rata skor total yang lebih rendah (24.962 ± 5.523, rentang 13–39) dibanding partisipan perempuan (27.789 ± 4.407, rentang 18–38). Berdasarkan hasil analisis per item menggunakan Mann-Whitney U test, ditemukan **5 dari 8 item** terdapat perbedaan signifikan (p < 0.05), yaitu item 2, 3, 4, 5, dan 8 *[REVISI: draf sebelumnya menyebutkan "4 dari 8 item" — berdasarkan p-value di Tabel 4.3, jumlah item yang signifikan adalah 5]*. Berdasarkan hasil analisis skor total menggunakan Welch's t-test, ditemukan perbedaan yang signifikan antara partisipan laki-laki dan perempuan (p = 0.001; t = -3.306; Cohen's d = -0.566) *[REVISI: notasi "p-0.001" diperbaiki menjadi "p = 0.001"]*. Nilai Cohen's d = -0.566 termasuk dalam kategori **efek sedang** (*medium effect*) menurut Cohen (1988), yang menunjukkan bahwa perbedaan self-management antara laki-laki dan perempuan tidak hanya bermakna secara statistik tetapi juga memiliki relevansi klinis yang substansial *[REVISI: ditambahkan interpretasi kategori effect size yang tidak ada di draf sebelumnya]*. Hal ini mengindikasikan bahwa pasien laki-laki dalam penelitian ini cenderung memiliki kemampuan self-management lebih rendah dibandingkan pasien perempuan.
+
+**Tabel 4.3** Self-Management pada Pasien Hemodialisis Berdasarkan Jenis Kelamin (n = 135)
+
+| No. | Item Pertanyaan | Total (N=135) Mean ± SD | Laki-Laki (N=78) Mean ± SD | Perempuan (N=57) Mean ± SD | U | Effect Size (r) | p |
+|---|---|---|---|---|---|---|---|
+| 1 | Sulit bagi saya menemukan solusi efektif untuk masalah-masalah yang terjadi dengan pengelolaan penyakit ginjal saya (hemodialisis) | 3.044 ± 1.196 | 2.987 ± 1.243 | 3.123 ± 1.135 | 2063.000 | 0.072 | .464 |
+| 2 | Saya menemukan usaha-usaha mengubah hal-hal yang saya tidak suka tentang penyakit ginjal saya (hemodialisis) | 2.844 ± 1.145 | 2.654 ± 1.138 | 3.105 ± 1.113 | 1718.500 | 0.227 | .020 |
+| 3 | Saya menangani diri saya dengan baik berkaitan dengan penyakit ginjal/hemodialisis saya alami | 3.593 ± 1.046 | 3.385 ± 1.047 | 3.877 ± 0.983 | 1598.500 | 0.281 | .003 |
+| 4 | Saya mampu mengatur hal-hal yang berkaitan dengan penyakit ginjal/hemodialisis yang saya alami | 3.593 ± 1.081 | 3.308 ± 1.097 | 3.982 ± 0.935 | 1440.000 | 0.352 | < .001 |
+| 5 | Saya berhasil dalam program yang saya jalani untuk mengelola penyakit ginjal/hemodialisis | 3.585 ± 1.025 | 3.346 ± 1.079 | 3.912 ± 0.851 | 1556.000 | 0.300 | .001 |
+| 6 | Secara khusus, cara saya mengelola penyakit ginjal/hemodialisis tidak berjalan dengan baik | 3.215 ± 1.248 | 3.090 ± 1.197 | 3.386 ± 1.306 | 1902.000 | 0.144 | .143 |
+| 7 | Tidak masalah bagi saya betapa susahnya saya mencoba mengelola penyakit ginjal/hemodialisis yang saya alami, hal ini tidak mengubah cara yang saya suka | 2.652 ± 0.980 | 2.705 ± 0.870 | 2.579 ± 1.117 | 2432.500 | -0.094 | .318 |
+| 8 | Pada umumnya saya mencapai tujuan dalam hal mengelola penyakit ginjal/hemodialisis yang saya alami | 3.630 ± 1.042 | 3.487 ± 1.003 | 3.825 ± 1.071 | 1747.000 | 0.214 | .024 |
+| | **Total** | **26.156 ± 5.255** | **24.962 ± 5.523** | **27.789 ± 4.407** | t = −3.306 | d = −0.566 | .001 |
+| | Minimal | 13.00 | 13.00 | 18.00 | | | |
+| | Maksimal | 39.00 | 39.00 | 38.00 | | | |
+
+*Keterangan: Analisis per item menggunakan Mann-Whitney U; effect size per item menggunakan rank biserial correlation (r positif = perempuan lebih tinggi). Analisis skor total menggunakan Welch's t-test; effect size menggunakan Cohen's d. Item 7 adalah satu-satunya item dengan arah effect size negatif (r = -0.094), yang berarti laki-laki memiliki skor sedikit lebih tinggi pada item ini, meskipun perbedaannya tidak signifikan.*
+
+*[REVISI: ditambahkan — isu kritikal]* **Catatan metodologis penting:** Seperti halnya pada analisis illness perception, analisis self-management berdasarkan jenis kelamin pada penelitian ini **tidak mengendalikan variabel perancu** yang terbukti berbeda signifikan antara laki-laki dan perempuan, yaitu tingkat pendidikan (p < 0.001) dan status pekerjaan (p = 0.005). Pendidikan yang lebih rendah pada perempuan dalam penelitian ini justru berkebalikan dengan skor self-management perempuan yang lebih tinggi — hal ini mengindikasikan bahwa mungkin ada faktor mediasi atau moderasi yang lebih kompleks, misalnya peran sosial-budaya atau dukungan sosial informal, yang tidak dapat disimpulkan tanpa analisis multivariat. Keterbatasan ini harus dicantumkan secara eksplisit.
+
+*[REVISI: ditambahkan — isu kritikal]* **Implikasi klinis item 7 (skor terendah: 2.652 ± 0.980):** Item 7 mencerminkan sikap fatalistis dan rendahnya **efikasi diri (self-efficacy)** pasien — keyakinan bahwa usaha self-management tidak akan membawa perubahan yang diinginkan. Menurut teori efikasi diri Bandura (1986), keyakinan tentang kemampuan diri merupakan prediktor paling kuat dari perilaku kesehatan: tanpa efikasi diri yang memadai, penguasaan keterampilan teknis pun tidak akan diterjemahkan menjadi perilaku self-management yang konsisten. Rendahnya skor item ini mengindikasikan bahwa intervensi yang paling mendesak bukan semata pelatihan keterampilan teknis, melainkan intervensi yang berfokus pada **peningkatan efikasi diri** (misalnya *mastery experiences*, *verbal persuasion*, dan *vicarious learning* melalui kelompok dukungan sesama pasien). Penting dicatat pula bahwa item 7 adalah satu-satunya item dengan arah effect size negatif (r = -0.094, p = .318), artinya laki-laki justru memiliki sikap yang sedikit lebih fatalistis dibandingkan perempuan pada dimensi ini — nuansa yang tidak terefleksi jika hanya melaporkan skor total.
+
+Temuan bahwa terdapat perbedaan signifikan terkait self-management pada pasien hemodialisis berdasarkan jenis kelamin ini **kontradiktif** dengan penelitian di China dan Korea yang melaporkan tingkat self-management setara antara pasien hemodialisis laki-laki dan perempuan (Hou et al., 2022; Park & Jung, 2025). Mengacu pada teori CSM, perbedaan self-management antara laki-laki dan perempuan *dapat dipengaruhi* oleh interaksi dengan sumber daya eksternal di lingkungan sosial-budaya tempat individu berada (Hagger & Orbell, 2022) — namun mekanisme ini tidak diuji secara langsung dalam penelitian ini.
+
+Dalam konteks Indonesia, perempuan umumnya memiliki peran yang lebih dominan dalam urusan domestik dan perawatan kesehatan keluarga (Kiram, 2026) *[REVISI: tahun 2026 perlu diverifikasi — kemungkinan in press atau typo]*. Kondisi ini *diduga berhubungan* dengan keterampilan self-management yang lebih baik pada perempuan (Alfian et al., 2025; Dwyer et al., 2024) — namun hubungan kausal antara peran domestik dan self-management tidak diuji dalam penelitian ini dan harus ditafsirkan sebagai penjelasan teoritis-kontekstual *[REVISI: kalimat "Hal ini membuat perempuan menjadi lebih terbiasa" pada draf sebelumnya mengandung klaim kausal yang tidak diuji; diubah menjadi hubungan yang lebih tentatif]*. Sebaliknya, laki-laki cenderung lebih banyak berada di ruang publik sebagai pencari nafkah (Kiram, 2026), yang berpotensi menyebabkan keterbatasan waktu dan keterlibatan dalam pengelolaan kesehatan (Llubes-Arrià et al., 2025). Kondisi ini didukung oleh data karakteristik partisipan, di mana proporsi partisipan yang bekerja lebih banyak pada laki-laki dibanding perempuan (p = 0.005) *[REVISI: draf sebelumnya menulis "p=0.05" — dikoreksi sesuai Tabel 4.1 yang mencantumkan p = 0.005]*.
+
+Perbedaan BB pre-hemodialisis yang signifikan antara laki-laki dan perempuan (laki-laki lebih tinggi, p < 0.001) *konsisten dengan* kemungkinan perbedaan kepatuhan manajemen cairan antargender, yang sejalan dengan skor self-management laki-laki yang lebih rendah *[REVISI: draf sebelumnya menggunakan kata "divalidasi oleh" yang mengandung penalaran sirkular dan mengklaim IDWG sebagai bukti kegagalan edukasi — diganti dengan bahasa yang lebih tepat tentang konsistensi temuan]*. Hubungan kausal antara ketergantungan pada pendamping dan kegagalan self-management tidak dapat ditentukan dari desain cross-sectional ini *[REVISI: klaim "prediktor negatif yang menandakan kegagalan edukasi" pada draf sebelumnya adalah overclaim yang tidak didukung data — dihapus]*.
+
+Temuan ini *mengindikasikan* perlunya eksplorasi lebih lanjut tentang kebutuhan intervensi yang berfokus pada peningkatan efikasi diri dan kemandirian self-management pada pasien laki-laki hemodialisis — namun rekomendasi program yang lebih definitif memerlukan studi dengan desain yang lebih kuat (misalnya uji coba acak terkontrol) dan sampel yang lebih beragam dari berbagai pusat hemodialisis *[REVISI: kalimat "harus memprioritaskan program intervensi" pada draf sebelumnya terlalu preskriptif untuk didukung oleh satu studi cross-sectional di satu situs]*.
 
 ---
 
@@ -115,7 +147,9 @@ Berdasarkan hasil analisis, terdapat perbedaan signifikan terkait self-managemen
 
 4. **Data tabel tidak lengkap.** Item 7 dan 8 B-IPQ serta skor SD total perempuan harus dilengkapi agar narasi konsisten dengan tabel.
 
-5. **Generalisasi terbatas.** Penelitian dilaksanakan di satu pusat hemodialisis; temuan mungkin tidak dapat digeneralisasi ke populasi hemodialisis lain dengan karakteristik demografis atau sistem layanan yang berbeda.
+5. **Variabel perancu pada analisis self-management.** Seperti halnya illness perception, analisis self-management berdasarkan jenis kelamin tidak mengendalikan perbedaan pendidikan (p < 0.001) dan status pekerjaan (p = 0.005). Tanpa analisis multivariat, tidak dapat dipastikan apakah perbedaan self-management antargender mencerminkan efek gender murni atau sebagian disebabkan oleh variabel perancu.
+
+6. **Generalisasi terbatas.** Penelitian dilaksanakan di satu pusat hemodialisis; temuan mungkin tidak dapat digeneralisasi ke populasi hemodialisis lain dengan karakteristik demografis atau sistem layanan yang berbeda.
 
 ---
 
@@ -136,3 +170,16 @@ Berdasarkan hasil analisis, terdapat perbedaan signifikan terkait self-managemen
 | Item 4 B-IPQ | Tidak dibahas impikasinya | Ditambahkan pembahasan implikasi klinis |
 | Variabel perancu | Tidak disebutkan | Ditambahkan catatan metodologis |
 | Keterbatasan | Tidak ada bagian | **Ditambahkan subbab Keterbatasan Penelitian** |
+| **Self-Management** | | |
+| Jumlah item signifikan | "4 dari 8 item" | **5 dari 8 item** (item 2, 3, 4, 5, 8) |
+| Notasi p skor total | "p-0.001" | **p = 0.001** |
+| Notasi p pekerjaan (Pembahasan) | "p=0.05" | **p = 0.005** (sesuai Tabel 4.1) |
+| Effect size Cohen's d | Tidak dikategorikan | **Ditambahkan: d = -0.566, kategori sedang (medium)** |
+| Item 7 (arah effect size berlawanan) | Tidak disebutkan | **Ditambahkan catatan arah r = -0.094 pada item 7** |
+| Item 7 (skor terendah) | Disebutkan tanpa implikasi klinis | **Ditambahkan implikasi klinis efikasi diri** |
+| Klaim kausal peran domestik | "membuat perempuan lebih terbiasa" | "diduga berhubungan … tidak diuji langsung" |
+| Klaim "prediktor negatif … kegagalan edukasi" | Ada | **Dihapus — overclaim kausal berlapis** |
+| BB pre-HD "divalidasi" self-management | Ada | Diganti: "konsisten dengan kemungkinan perbedaan kepatuhan" |
+| Rekomendasi "harus memprioritaskan" program | Ada | Diganti: "mengindikasikan perlunya eksplorasi lebih lanjut" |
+| Referensi "Kiram, 2026" | Tidak ada catatan | **Ditambahkan catatan verifikasi tahun** |
+| Variabel perancu self-management | Tidak disebutkan | **Ditambahkan catatan metodologis** |

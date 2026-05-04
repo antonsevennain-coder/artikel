@@ -197,7 +197,156 @@ Namun, analisis illness perception (Tabel 4.2) hanya membandingkan skor berdasar
 
 ---
 
+---
+
+## Bagian II — Self-Management Berdasarkan Jenis Kelamin (Tabel 4.3, PKDSMS)
+
+### II.1 Inkonsistensi Angka & Notasi
+
+#### II.1.1 Jumlah item signifikan: "4 dari 8 item" tidak sesuai tabel
+
+**Kutipan:** "ditemukan 4 dari 8 item terdapat perbedaan signifikan (p < 0.05)"
+
+**Masalah:** Berdasarkan data p-value di Tabel 4.3, item yang memiliki p < 0.05 adalah:
+
+| Item | p-value | Signifikan? |
+|---|---|---|
+| Item 1 | .464 | Tidak |
+| Item 2 | .020 | **Ya** |
+| Item 3 | .003 | **Ya** |
+| Item 4 | < .001 | **Ya** |
+| Item 5 | .001 | **Ya** |
+| Item 6 | .143 | Tidak |
+| Item 7 | .318 | Tidak |
+| Item 8 | .024 | **Ya** |
+
+Terdapat **5 item** (bukan 4) dengan p < 0.05, yaitu item 2, 3, 4, 5, dan 8. Pernyataan "4 dari 8 item" adalah **kesalahan hitung** yang harus diperbaiki.
+
+---
+
+#### II.1.2 Notasi "p-0.001" pada skor total
+
+**Kutipan:** "p-0.001" (tanda hubung, bukan tanda sama dengan)
+
+**Masalah:** Notasi "p-0.001" tidak baku dan dapat disalahartikan. Harus ditulis **"p = 0.001"** agar konsisten dengan konvensi pelaporan statistik (APA 7).
+
+---
+
+#### II.1.3 Nilai p status pekerjaan: "p=0.05" vs "p = 0.005" di Tabel 4.1
+
+**Kutipan di Pembahasan self-management:** "proporsi partisipan yang bekerja secara signifikan lebih banyak adalah laki-laki dibanding perempuan **(p=0.05)**"
+
+**Masalah:** Tabel 4.1 (karakteristik demografi) mencantumkan p = **0.005** untuk status pekerjaan. Nilai "p = 0.05" di narasi pembahasan self-management kemungkinan adalah **typo** (hilang satu angka nol). Kedua nilai ini berbeda satu tingkat magnitude dan harus diselaraskan.
+
+**Perbaikan:** Ubah "p=0.05" menjadi "p = 0.005" sesuai Tabel 4.1.
+
+---
+
+#### II.1.4 Arah effect size item 7 berlawanan dengan narasi
+
+**Masalah:** Narasi menyatakan bahwa pasien laki-laki memiliki self-management lebih buruk (skor lebih rendah) dibandingkan perempuan. Namun, effect size item 7 adalah **r = -0.094** (negatif), yang berarti pada item ini laki-laki justru memiliki skor sedikit *lebih tinggi* dari perempuan (males 2.705 > females 2.579), meskipun perbedaannya tidak signifikan (p = 0.318). Narasi tidak menyebutkan pengecualian ini sama sekali.
+
+**Perbaikan:** Tambahkan keterangan bahwa item 7 merupakan satu-satunya item dengan arah yang berbeda (laki-laki sedikit lebih tinggi, meskipun tidak signifikan), dan diskusikan implikasinya secara klinis.
+
+---
+
+#### II.1.5 Effect size Cohen's d = -0.566 tidak dikategorikan
+
+**Masalah:** Nilai Cohen's d = -0.566 dilaporkan tetapi tidak dijelaskan kategorinya. Menurut konvensi Cohen (1988): d = 0.2 kecil, d = 0.5 sedang, d = 0.8 besar. Nilai |d| = 0.566 masuk kategori **sedang (medium)**, yang memiliki makna klinis bermakna dan lebih kuat dari sekadar "ada perbedaan signifikan". Tidak menginterpretasikan ini merupakan pelaporan yang tidak lengkap.
+
+---
+
+### II.2 Overclaim
+
+#### II.2.1 "Merupakan prediktor negatif yang menandakan kegagalan edukasi"
+
+**Kutipan asli:**
+> "Fenomena tersebut menunjukkan bahwa ketergantungan pasien laki-laki pada pendamping merupakan **prediktor negatif** yang **menandakan kegagalan edukasi** dalam membangun kemandirian self-management."
+
+**Masalah:** Klaim ini mengandung dua lapis overclaim:
+1. "Prediktor negatif" — istilah "prediktor" merujuk pada hubungan yang diuji secara statistik (misalnya dalam analisis regresi). Penelitian ini tidak menguji model prediktif, melainkan perbandingan sederhana. Pemakaian istilah "prediktor" tanpa analisis prediktif adalah overclaim terminologis.
+2. "Kegagalan edukasi" — tidak ada data tentang program edukasi yang diterima, kualitas edukasi, maupun pengukuran kemandirian pasien dari waktu ke waktu. Menyimpulkan "kegagalan edukasi" dari data BB pre-HD yang lebih tinggi pada laki-laki adalah **inferensi kausal berlapis yang tidak didukung data penelitian ini**.
+
+**Perbaikan:** "Data BB pre-hemodialisis yang lebih tinggi pada laki-laki *konsisten dengan* kemungkinan keterbatasan self-management cairan, meskipun hubungan kausal antara ketergantungan pada pendamping dan kegagalan edukasi tidak dapat ditentukan dari desain penelitian ini."
+
+---
+
+#### II.2.2 "Ketergantungan pasien laki-laki pada pendamping" sebagai fakta yang tervalidasi
+
+**Kutipan asli:**
+> "lebih bergantung pada dukungan eksternal, seperti keluarga (Llubes-Arrià et al., 2025). … ketidakmampuan laki-laki dalam self-management mengakibatkan terjadinya Interdialytic Weight Gain (IDWG). **Hal ini divalidasi oleh data BB Pre-hemodialisis yang berbeda signifikan**"
+
+**Masalah:** Ketergantungan pada pendamping/keluarga **tidak diukur** dalam penelitian ini. Mengklaim bahwa data BB pre-HD "memvalidasi" ketergantungan adalah **penalaran sirkular dan inferensi tidak langsung yang berlebihan**. BB pre-HD lebih tinggi pada laki-laki dapat disebabkan oleh banyak faktor (perbedaan komposisi tubuh, massa otot, pola makan, atau kepatuhan cairan) — tidak harus karena ketergantungan pada pendamping.
+
+**Perbaikan:** "Perbedaan BB pre-hemodialisis yang signifikan (laki-laki > perempuan, p < 0.001) *dapat* mengindikasikan perbedaan kepatuhan manajemen cairan, yang *konsisten dengan* skor self-management laki-laki yang lebih rendah. Namun, hubungan kausal ini perlu dikonfirmasi dalam studi dengan desain yang lebih kuat."
+
+---
+
+#### II.2.3 Rekomendasi program intervensi yang terlalu preskriptif
+
+**Kutipan asli:**
+> "unit hemodialisis **harus memprioritaskan** program intervensi yang membantu pasien laki-laki beralih dari ketergantungan ke kemandirian, khususnya melalui pelatihan keterampilan teknis mandiri, termasuk manajemen cairan harian dan perawatan akses vaskular."
+
+**Masalah:** Rekomendasi sekuat "harus memprioritaskan" program spesifik (termasuk perincian pelatihan) berasal dari **satu studi cross-sectional di satu pusat hemodialisis**. Rekomendasi sedetail dan sepreskriptif ini memerlukan dukungan dari systematic review, meta-analisis, atau setidaknya replikasi di berbagai situs. Klaim yang berlebihan ini melampaui batas inferensi yang valid dari desain penelitian.
+
+**Perbaikan:** "Temuan ini *mengindikasikan* perlunya eksplorasi lebih lanjut tentang kebutuhan intervensi yang berfokus pada kemandirian self-management pada pasien laki-laki hemodialisis, misalnya melalui uji coba program pelatihan keterampilan mandiri — namun rekomendasi yang lebih definitif memerlukan studi dengan desain yang lebih kuat dan sampel yang lebih beragam."
+
+---
+
+#### II.2.4 Peran domestik perempuan diklaim sebagai penyebab self-management lebih baik
+
+**Kutipan asli:**
+> "perempuan umumnya memiliki peran yang lebih dominan dalam pengelolaan urusan domestik … **Hal ini membuat perempuan menjadi lebih terbiasa dalam melakukan self-management** terkait penyakitnya."
+
+**Masalah:** Hubungan kausal antara peran domestik perempuan dan kemampuan self-management penyakit kronis **tidak diuji** dalam penelitian ini (tidak ada pengukuran peran domestik, beban perawatan, atau mekanisme transfer keterampilan). Kalimat ini membuat klaim kausal yang berasal dari asumsi budaya, bukan dari data yang dikumpulkan.
+
+**Perbaikan:** "Dalam konteks budaya Indonesia, perempuan umumnya memiliki peran yang lebih dominan dalam urusan domestik dan perawatan kesehatan keluarga (Kiram, 2026). Kondisi ini *diduga* berhubungan dengan keterampilan self-management yang lebih baik pada perempuan — namun hubungan kausal ini tidak diuji secara langsung dalam penelitian ini dan harus ditafsirkan sebagai penjelasan teoritis-kontekstual, bukan temuan empiris."
+
+---
+
+### II.3 Isu Kritikal Metodologis
+
+#### II.3.1 Variabel perancu (pendidikan, pekerjaan) tidak dikontrol pada analisis self-management
+
+**Masalah:** Seperti halnya pada analisis illness perception, perbedaan signifikan dalam tingkat pendidikan (p < 0.001) dan status pekerjaan (p = 0.005) antara laki-laki dan perempuan juga merupakan variabel perancu potensial pada self-management. Pendidikan berhubungan dengan literasi kesehatan dan kemampuan memahami instruksi pengelolaan penyakit, sementara status pekerjaan berhubungan dengan ketersediaan waktu dan akses ke layanan kesehatan. Analisis yang hanya membandingkan skor self-management berdasarkan jenis kelamin **tanpa mengendalikan variabel ini** tidak dapat memastikan apakah perbedaan yang ditemukan mencerminkan efek gender murni.
+
+**Rekomendasi:** Lakukan analisis ANCOVA atau regresi linier berganda dengan pendidikan dan pekerjaan sebagai kovariat. Sebutkan keterbatasan ini secara eksplisit.
+
+---
+
+#### II.3.2 Item 7 (skor terendah) memiliki implikasi klinis kritis yang tidak dibahas
+
+**Masalah:** Item 7 ("Tidak masalah bagi saya betapa susahnya saya mencoba mengelola penyakit ginjal/hemodialisis yang saya alami, hal ini tidak mengubah cara yang saya suka") memiliki skor rata-rata terendah (2.652 ± 0.980). Konten item ini mencerminkan **sikap fatalistis dan rendahnya efikasi diri (self-efficacy)** — pasien merasa usaha self-management tidak memberikan hasil yang diinginkan. Ini adalah penghalang psikologis paling mendasar dalam teori self-management (Bandura, 1986; Lorig & Holman, 2003): tanpa keyakinan bahwa upaya akan menghasilkan perubahan, perilaku self-management tidak akan berlanjut.
+
+Lebih lanjut, item 7 juga merupakan satu-satunya item di mana laki-laki memiliki skor sedikit lebih tinggi dari perempuan (meskipun tidak signifikan), yang berarti laki-laki justru lebih "fatalistis" dalam aspek ini dibandingkan perempuan.
+
+**Rekomendasi:** Bahas implikasi klinis item 7 secara khusus — rendahnya skor ini mengindikasikan kebutuhan intervensi yang berfokus pada peningkatan efikasi diri (self-efficacy enhancement), bukan hanya pelatihan keterampilan teknis.
+
+---
+
+#### II.3.3 Effect size Cohen's d = -0.566 (sedang) tidak diinterpretasikan secara klinis
+
+**Masalah:** Nilai |d| = 0.566 masuk dalam kategori **efek sedang** menurut Cohen (1988), yang berarti perbedaan self-management antara laki-laki dan perempuan bukan hanya bermakna secara statistik tetapi juga memiliki **relevansi klinis yang substansial**. Efek sedang dalam konteks ini mengindikasikan bahwa perbedaan self-management antargender cukup besar untuk berdampak pada hasil klinis. Tidak menginterpretasikan besaran efek ini merupakan hilangnya informasi penting bagi pembaca klinis.
+
+---
+
+#### II.3.4 Referensi "Kiram, 2026" — tahun yang perlu diverifikasi
+
+**Masalah:** Referensi "Kiram, 2026" muncul dua kali dalam pembahasan self-management. Tahun 2026 merupakan tahun yang perlu diverifikasi, mengingat studi ini kemungkinan ditulis sebelum atau selama tahun 2025–2026. Referensi ini bisa berupa: (a) naskah yang diterima (in press), (b) pra-cetak (preprint), atau (c) **kesalahan tahun** yang harus dikoreksi. Referensi dengan tahun yang tidak dapat diverifikasi melemahkan kredibilitas naskah.
+
+**Rekomendasi:** Verifikasi keberadaan referensi Kiram, 2026; jika belum diterbitkan pada tanggal submisi, gunakan notasi "Kiram, in press" atau ganti dengan referensi yang telah dipublikasikan.
+
+---
+
+#### II.3.5 Desain cross-sectional dan klaim tentang dependensi/kausalitas tidak disebutkan sebagai keterbatasan
+
+**Masalah:** Pembahasan self-management menggunakan bahasa kausal seperti "ketidakmampuan laki-laki dalam self-management **mengakibatkan** terjadinya IDWG" dan "kondisi ini **menyebabkan** laki-laki memiliki keterbatasan waktu". Desain cross-sectional tidak memungkinkan penarikan kesimpulan kausal, dan keterbatasan ini tidak disebutkan secara eksplisit dalam konteks pembahasan self-management.
+
+---
+
 ## 4. Ringkasan Prioritas Perbaikan
+
+### Bagian I — Illness Perception
 
 | Prioritas | Masalah | Jenis |
 |---|---|---|
@@ -217,6 +366,24 @@ Namun, analisis illness perception (Tabel 4.2) hanya membandingkan skor berdasar
 | 🟢 Minor | Skor item 5 dan 6 identik — konfirmasi data mentah | Inkonsistensi |
 | 🟢 Minor | Normalization bias pada self-report B-IPQ | Isu Kritikal |
 
+### Bagian II — Self-Management
+
+| Prioritas | Masalah | Jenis |
+|---|---|---|
+| 🔴 Kritis | "4 dari 8 item signifikan" → sebenarnya 5 item signifikan | Inkonsistensi |
+| 🔴 Kritis | Variabel perancu (pendidikan, pekerjaan) tidak dikontrol pada self-management | Isu Kritikal |
+| 🟠 Penting | "prediktor negatif … kegagalan edukasi" → klaim kausal berlapis tanpa data | Overclaim |
+| 🟠 Penting | BB pre-HD "memvalidasi" ketergantungan → penalaran sirkular | Overclaim |
+| 🟠 Penting | Item 7 (skor terendah) → implikasi efikasi diri tidak dibahas | Isu Kritikal |
+| 🟠 Penting | Effect size d = -0.566 (sedang) tidak dikategorikan | Inkonsistensi |
+| 🟡 Sedang | Notasi "p-0.001" → harus "p = 0.001" | Inkonsistensi |
+| 🟡 Sedang | "p=0.05" pekerjaan → kemungkinan typo untuk "p = 0.005" | Inkonsistensi |
+| 🟡 Sedang | Rekomendasi "harus memprioritaskan" program spesifik → terlalu preskriptif | Overclaim |
+| 🟡 Sedang | Peran domestik perempuan diklaim sebagai kausa self-management lebih baik | Overclaim |
+| 🟡 Sedang | Item 7 (effect size negatif — males slightly higher) tidak diakui dalam narasi | Inkonsistensi |
+| 🟡 Sedang | Desain cross-sectional tidak disebutkan dalam konteks pembahasan self-management | Isu Kritikal |
+| 🟢 Minor | Referensi "Kiram, 2026" — tahun perlu diverifikasi | Isu Kritikal |
+
 ---
 
 ## 5. Referensi Pendukung Rekomendasi
@@ -226,3 +393,5 @@ Namun, analisis illness perception (Tabel 4.2) hanya membandingkan skor berdasar
 - **Hagger, M. S., & Orbell, S. (2022).** The Common Sense Model of illness self-regulation: A conceptual review and proposed extended model. *Health Psychology Review, 16*(2), 347–377. https://doi.org/10.1080/17437199.2021.1878050
 - **Altman, D. G., & Bland, J. M. (1995).** Absence of evidence is not evidence of absence. *BMJ, 311*(7003), 485. https://doi.org/10.1136/bmj.311.7003.485
 - **Broadbent, E., Petrie, K. J., Main, J., & Weinman, J. (2006).** The Brief Illness Perception Questionnaire. *Journal of Psychosomatic Research, 60*(6), 631–637. https://doi.org/10.1016/j.jpsychores.2005.10.020
+- **Bandura, A. (1986).** *Social foundations of thought and action: A social cognitive theory.* Prentice-Hall.
+- **Lorig, K. R., & Holman, H. R. (2003).** Self-management education: History, definition, outcomes, and mechanisms. *Annals of Behavioral Medicine, 26*(1), 1–7. https://doi.org/10.1207/S15324796ABM2601_01
